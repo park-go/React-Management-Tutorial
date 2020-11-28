@@ -1,13 +1,17 @@
-[유튜브] npm 설치
+[유튜브]
+<npm 설치>
 
 npm install -g create-react-app
 
 create-react-app management
 
-처음 git 주소 커밋할 때
+<처음 git 주소 커밋할 때>
 git remote add origin https://github.com/park-go/React-Management-Tutorial.git
 
 git push --set-upstream origin master
+
+<Material UI>
+npm install @material-ui/core
 
 ## Available Scripts
 
