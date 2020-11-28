@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+[유튜브] npm 설치
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+npm install -g create-react-app
+
+create-react-app management
+
+처음 git 주소 커밋할 때
+git remote add origin https://github.com/park-go/React-Management-Tutorial.git
+
+git push --set-upstream origin master
 
 ## Available Scripts
 
