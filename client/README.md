@@ -45,3 +45,6 @@ yarn dev -> client와 server 동시 연결하는 명령어 dev는 package.json�
 
 3.  App.js에서 class App내에 state와 componentDidMount를 설정.
     state는 변할 수 있는 값이기 때문에 쓰고, componentDidMount는 서버에서 데이터를 가져오기 위해서 써야함
+
+<mysql 설치>
+npm install --save mysql
