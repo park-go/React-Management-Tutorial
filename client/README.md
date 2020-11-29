@@ -48,3 +48,9 @@ yarn dev -> client와 server 동시 연결하는 명령어 dev는 package.json�
 
 <mysql 설치>
 npm install --save mysql
+
+<axios : 서버와의 통신을 위한 라이브러리>
+npm install --save axios
+
+<multer: 이미지 파일을 업로드하기 위해서 필요한 라이브러리>
+npm install --save multer
