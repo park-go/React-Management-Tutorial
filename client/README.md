@@ -54,3 +54,6 @@ npm install --save axios
 
 <multer: 이미지 파일을 업로드하기 위해서 필요한 라이브러리>
 npm install --save multer
+
+<material-ui의 icon 라이브러리 설치, cd client에서 설치>
+npm install --save @material-ui/icons
